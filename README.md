@@ -6,6 +6,6 @@ I am a cybersecurity, information technology, and networking researcher who spec
 
 ## Portfolio Structure
 - **Virtual Internships:**
-  Projects from "theforage.com", where job simulations provide an online experience working for well-known companies from around the world.
+  Projects from [The Forage](https://www.theforage.com/), where job simulations provide an online experience working for well-known companies from around the world.
 - **Labs:**
   
