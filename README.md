@@ -1,10 +1,10 @@
 # Portfolio Overview
 
-Welcome to my portfolio of **cybersecurity**, **systems administration**, and **emerging technology** projects. This repository serves as a central hub that links to separate, dedicated labs where I showcase my hands-on work in areas such as penetration testing, virtual network security, digital forensics, and automation.
+Welcome to my portfolio of **cybersecurity**, **systems administration**, and **computing technology** projects. This repository serves as a central hub that links to separate, dedicated labs where I showcase my work in areas such as penetration testing, virtual network security, digital forensics, and automation.
 
 ## About Me
 
-I am a cybersecurity and systems administration professional, as well as an emerging technology researcher. I focus on bridging theoretical frameworks with real-world applications by deploying diverse tools and techniques. My goal is to continually expand my skill set while contributing to the broader cybersecurity community.
+I am a cybersecurity and systems administration professional, as well as an emerging technology researcher. I focus on integrating theoretical frameworks within real-world applications by exploring diverse tools and techniques. My goal is to continually expand my skillset while contributing to the broader cybersecurity community.
 
 ## Portfolio Structure
 
