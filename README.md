@@ -7,4 +7,11 @@ Welcome to my portfolio of **cybersecurity**, **systems administration**, and **
 I am a **cybersecurity and systems administration professional** as well as an **emerging technology researcher**, focusing on **bridging theoretical frameworks** with **real-world applications**. By exploring diverse tools and techniques, I aim to continually grow my skill set while contributing to the broader cybersecurity community.
 
 ## Portfolio Structure
-- *[Coming Soon]* 
+
+## Cybersecurity Projects
+
+Check out my [Cybersecurity Projects](https://github.com/sakeho/cybersecurity-projects) repository, which includes:
+- Port scanners
+- Log analyzers
+- File integrity checkers
+- And more!
