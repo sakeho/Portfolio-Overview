@@ -8,13 +8,13 @@ I am a cybersecurity and systems administration professional, as well as an emer
 
 ## Portfolio Structure
 
-- [**Cybersecurity Labs**](https://github.com/your-username/cybersecurity-labs)  
+- [**Cybersecurity Labs**](https://github.com/sakeho/cybersecurity-labs)  
   Hands-on projects covering secure virtual networks, penetration testing, and digital forensics.
 
-- [**Systems Administration Labs**](https://github.com/your-username/systems-administration-labs)  
+- [**Systems Administration Labs**](https://github.com/sakeho/systems-administration-labs)  
   Scripts and tools for user audits, service monitoring, and backup automation.
 
-- [**Computing Technology Labs**](https://github.com/your-username/computing-technology-labs)  
+- [**Computing Technology Labs**](https://github.com/sakeho/computing-technology-labs)  
   General-purpose utilities, CLI frameworks, and emerging tech experiments.
 
 Each of these repositories is structured as a modular lab. Within them, you will find dedicated projects (added as submodules) that dive into specific areas, such as:
